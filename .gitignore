@@ -1,2 +1,9 @@
-ieee.o
-ieee
+/*
+
+!.gitignore
+!README.md
+
+!makefile
+
+!.h
+!.c
